@@ -1,11 +1,8 @@
 <h1 align="center">Object Detection with Open Cv and Yolo</h1>
 <p>
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-</p>
 
-> 🏕 Nesse projeto eu tentei fazer um programa que faça a detecção de objetos utilizando a biblioteca open cv e o dataset Yolo .
+
+> 🏕 In this project I tried to make a program that detects objects using the open cv library and the Yolo dataset .
 
 ## Download
 
