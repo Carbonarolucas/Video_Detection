@@ -1,8 +1,8 @@
-<h1 align="center">Object Detection with Open Cv and Yolo</h1>
+<h1 align="center">Video Detection with Open Cv and Yolo</h1>
 <p>
 
 
-> 🏕 In this project I tried to make a program that detects objects using the open cv library and the Yolo dataset .
+> 🏕 In this project I tried to make a program that detects objects in videos using the open cv library and the Yolo dataset .
 
 ## Download
 
